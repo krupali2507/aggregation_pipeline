@@ -1,0 +1,13 @@
+1) what is the average age of femal and male in this?
+2) List the top 5 fruits among all users.
+3) Which Country has the highest number of Registered users?
+4) List all the unique eye color present in the collection?
+5) What is the average number of tags per user?
+6) How many users have 'enim' as one of their tags?
+7) what are the names and age of users who are inActive and have 'velit' in their tags?
+8) How many users have phone number starting with "+1 (940)"?
+9) Who has Registered the most recently?
+10) Categorize users by their favourite fruit.
+11) How many users have 'ad' as their second tag in the list of tags?
+12) find users who have both 'enim' and 'id' as their tags.
+13) List all the companies located in the USA with their corresponding user count.
